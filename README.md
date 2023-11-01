@@ -1,4 +1,4 @@
-### Hi there 👋
+## <p align="center"><b>Hi there 👋</b></p>
 
 # About-Me
 <p align="center"><b>HEY EVERYONE!</b></p>
