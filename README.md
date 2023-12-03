@@ -1,10 +1,11 @@
-# <p align="center"><b>Hi there 👋</b></p>
+# <p align="center">Hi there 👋</p>
 
 ## About-Me
 
 
-- 🔭 I’m currently a final year engineering student at Vellore Institute Of Technology.
-- 🌱 I’m currently learning Computer Science engineering.
+- 👩🏻‍💻 I’m currently a final year engineering student at Vellore Institute Of Technology.
+- 📊 I'm passionate and curious about data science
+- 🌱 Curious geek in the ever-evolving world of Artificial Intelligence.
 - 👯 I’m looking to collaborate on open source projects.
 
 ## Connect with me:
