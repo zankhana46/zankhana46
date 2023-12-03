@@ -4,9 +4,9 @@
 
 
 - 👩🏻‍💻 I’m currently a final year engineering student at Vellore Institute Of Technology.
-- 📊 I'm passionate and curious about data science
-- 🌱 Curious geek in the ever-evolving world of Artificial Intelligence.
-- 👯 I’m looking to collaborate on open source projects.
+- 📊 I'm passionate and curious about Data Science
+- 🌱 Inquisitive geek in the ever-evolving world of Artificial Intelligence.
+- 👯 I’m looking forward to collaborate on open source projects.
 
 ## Connect with me:
 <p align="left">
