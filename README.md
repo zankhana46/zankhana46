@@ -1,4 +1,4 @@
-## <p align="leftr">Hello there! 👋</p>
+## <p align="leftr">Hello there!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></p>
 ![homeimg](https://github.com/zankhana46/zankhana46/assets/86908588/c0b08eed-69d7-4557-be83-ca6bcbf8bbdb)
 
 ## About-Me
