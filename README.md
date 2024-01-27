@@ -1,14 +1,6 @@
-## <p align="leftr">Hello there!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></p>
-![homeimg](https://github.com/zankhana46/zankhana46/assets/86908588/c0b08eed-69d7-4557-be83-ca6bcbf8bbdb)
+## <p align="center">Hello there!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></p>
+![Untitled design (2)](https://github.com/zankhana46/zankhana46/assets/86908588/9bf4e66c-888d-4b17-9fa7-b8a0ebd0cf4a)
 
-## About-Me
-
-
-- 👩🏻‍💻 I’m currently a final year engineering student at Vellore Institute Of Technology.
-
-- 📊 I'm passionate and curious about Data Science
-- 🌱 Inquisitive geek in the ever-evolving world of Artificial Intelligence.
-- 👯 I’m looking forward to collaborate on open source projects.
 
 ## Connect with me:
 <p align="left">
