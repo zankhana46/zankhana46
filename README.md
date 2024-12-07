@@ -39,4 +39,4 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=zankhana46) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zankhana46&layout=compact)](https://github.com/zankhana46/github-readme-stats)
 
 
-<p>Thanks for stopping by, and happy coding! 🚀</p>
+## Stay Curious, Keep Learning 🚀
