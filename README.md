@@ -10,7 +10,9 @@
 </p>
 
 ## Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=py,aws,tensorflow,pytorch,github,git,mysql,mongodb,sqlite,postman,docker,kubernetes,linux,flask,fastapi,html,css,bootstrap,pandas,numpy,matplotlib,seaborn,regex,tableau,powerbi,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,aws,tensorflow,pytorch,github,git,mysql)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=mongodb,sqlite,postman,docker,kubernetes,linux,flask)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=pandas,numpy,matplotlib,seaborn,regex,tableau,powerbi)](https://skillicons.dev)  
 
 
 ## My Stats:
