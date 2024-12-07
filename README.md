@@ -1,5 +1,6 @@
 ## <p align="center">Hello there!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></p>
-![Untitled design (2)](https://github.com/zankhana46/zankhana46/assets/86908588/9bf4e66c-888d-4b17-9fa7-b8a0ebd0cf4a)
+![image](https://github.com/user-attachments/assets/2e4ff93a-9836-4661-b003-f24b7a25a4a4)
+
 
 
 ## Connect with me:
