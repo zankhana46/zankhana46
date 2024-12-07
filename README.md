@@ -11,7 +11,6 @@
 <p align="center">
     <a href="https://www.linkedin.com/in/zankhana-mehta-505a8a212/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="mailto:zankhana.mehta02@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-d94437?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://discordapp.com/users/1265931018141962282" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-5662f6?style=for-the-badge&logo=discord&logoColor=white" /></a>
     <a href="https://medium.com/@zankhana.mehta02" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
