@@ -3,9 +3,29 @@
 
 
 ## Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=py,aws,tensorflow,pytorch,github,git,mysql)](https://skillicons.dev)  
-[![My Skills](https://skillicons.dev/icons?i=mongodb,sqlite,postman,docker,kubernetes,linux,flask)](https://skillicons.dev)  
-[![My Skills](https://skillicons.dev/icons?i=pandas,numpy,matplotlib,seaborn,tableau,powerbi)](https://skillicons.dev)  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
+![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) 
+![LangChain](https://img.shields.io/badge/langchain-1c3c3c?style=for-the-badge&logo=langchain&logoColor=white) 
+![Transformers](https://img.shields.io/badge/transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) 
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
+![Ollama](https://img.shields.io/badge/ollama-%23000?style=for-the-badge&logo=ollama&logoColor=white) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-f7931e?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ff424b?style=for-the-badge&logo=Matplotlib&logoColor=black) 
+![seaborn](https://img.shields.io/badge/Seaborn-05122A?style=for-the-badge&logo=seaborn&logoColor=47759b)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) 
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## Connect with me:
 <p align="center">
