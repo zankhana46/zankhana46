@@ -34,9 +34,4 @@
     <a href="https://medium.com/@zankhana.mehta02" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
-
-## My Stats:
-![Github stats](https://github-readme-stats.vercel.app/api?username=zankhana46) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zankhana46&layout=compact)](https://github.com/zankhana46/github-readme-stats)
-
-
 ## Stay Curious, Keep Learning 🚀
